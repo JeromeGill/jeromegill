@@ -1,4 +1,4 @@
-Check my (blog)[https://jeromegill.com/blog/] for my writing/thinking
+Check my [blog](https://jeromegill.com/blog/) for my writing/thinking
 
 <!--
 **JeromeGill/jeromegill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
